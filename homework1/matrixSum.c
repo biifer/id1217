@@ -1,3 +1,7 @@
+/*
+ * Testing git in eclipse
+ */
+
 /* matrix summation using pthreads
 
  features: uses a barrier; the Worker[0] computes
